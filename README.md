@@ -1,6 +1,6 @@
 # Olá, Sou Emanuel!
 
-Bem-vindo ao meu perfil! Sou um(a) iniciante na programação e estou em busca de oportunidades para começar minha carreira na área de desenvolvimento de software. Estou entusiasmado(a) para aprender e contribuir para projetos significativos.
+Bem-vindo ao meu perfil! Sou um iniciante na programação e estou em busca de oportunidades para começar minha carreira na área de desenvolvimento de software. Estou entusiasmado(a) para aprender e contribuir para projetos significativos.
 
 ## Sobre Mim
 
